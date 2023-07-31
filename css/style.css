@@ -4,3 +4,22 @@
     box-sizing: border-box;
 }
 
+
+.encabezado{
+    
+}
+
+.titulo{
+    color:black;
+    font-size: 80px;
+   text-align: center;
+}
+
+.navegador ul {
+    list-style-type: none;
+}
+
+.navegador ul li {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
